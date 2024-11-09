@@ -2,8 +2,6 @@
 
 ![I am Kengo Hirata ](https://kenchanbomber.github.io/images/banner.png)
 
-こんにちは！ 僕の名前は平田健悟です。現在、学生として経済学を学んでいます。
-
 フロントエンドに深い興味があり、特に ReactJS を中心に学習を進めています。
 
 知り合いの会社のプロジェクトに参加しており、そこではフロントエンドの開発や DevOps を担当しています。
@@ -15,6 +13,8 @@
 
 **Skills:**  
 Web Development | DevOps
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be115bc7-cceb-419e-80bc-9ff7b76da202" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kenchanbomber)
 
