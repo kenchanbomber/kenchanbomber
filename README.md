@@ -2,19 +2,11 @@
 
 ![I am Kengo Hirata ](https://kenchanbomber.github.io/images/banner.png)
 
-フロントエンドに深い興味があり、特に ReactJS を中心に学習を進めています。
-
-知り合いの会社のプロジェクトに参加しており、そこではフロントエンドの開発や DevOps を担当しています。
-
-次に学習したい分野として、アルゴリズムや機械学習に挑戦してみたいと考えています！
-
 **Tools:**  
 <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png' alt='vscode' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png' alt='html' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png' alt='css' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png' alt='reactjs' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png' alt='js' height='40'><img src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' height='40'><img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>
 
 **Skills:**  
 Web Development | DevOps
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="be115bc7-cceb-419e-80bc-9ff7b76da202" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kenchanbomber)
 
